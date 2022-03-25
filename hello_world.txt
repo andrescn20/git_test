@@ -1,1 +1,2 @@
-Hello World... from the inside. 
+Hello World... from the inside.
+Lets try to use VSCode as text editor for commit message. 
